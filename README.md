@@ -1,1 +1,1 @@
-# RL_projects-used vs-code ide
+# RL_projects:used vs-code ide and google colab notebook
